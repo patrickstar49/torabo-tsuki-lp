@@ -4,3 +4,7 @@
 img/raw
 *-cache
 *.FCBak
+# KiCad local junk
+_autosave-*
+~*.lck
+report.txt
