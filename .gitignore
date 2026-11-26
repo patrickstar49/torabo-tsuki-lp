@@ -8,3 +8,4 @@ img/raw
 _autosave-*
 ~*.lck
 report.txt
+*.zip
